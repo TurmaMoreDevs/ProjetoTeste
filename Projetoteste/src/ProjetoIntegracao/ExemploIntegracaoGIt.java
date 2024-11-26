@@ -5,6 +5,7 @@ public class ExemploIntegracaoGIt {
 		// TODO Auto-generated method stub
 		System.out.println("teste");
 		System.out.println("segunda alteracao");
+		System.out.println("terceira alteracao");
 
 	}
 
